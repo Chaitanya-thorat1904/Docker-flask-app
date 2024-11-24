@@ -1,0 +1,6 @@
+steps.txt:
+
+1. terraform
+2. docker with ansible
+3. flask app with ansible
+4. github actions
